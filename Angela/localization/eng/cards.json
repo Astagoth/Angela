@@ -1,0 +1,6 @@
+{
+  "ANGELA-ANGELA_STRIKE.description": "Deal {Damage:diff()} damage.\nApplies {WeakPower:diff()} [green]Weak[/green] to the enemy",
+  "ANGELA-ANGELA_STRIKE.title": "Strike",
+  "ANGELA-ANGELA_DEFEND.description" : "Gain {Block:diff()} [blue]Block[/blue].\nGive {Block:diff()} [blue]Block[/blue] to [gold]all allies[/gold]",
+  "ANGELA-ANGELA_DEFEND.title": "Defend"
+}

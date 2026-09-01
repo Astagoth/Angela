@@ -1,0 +1,14 @@
+﻿{
+  "id": "Angela",
+  "name": "Angela",
+  "author": "StrangeLuck",
+  "description": "Healer to the root, little to no damage, so do not play this on solo, or each fight will be lasting forever.",
+  "version": "v0.0.0",
+  "min_game_version": "0.107.0",
+  "has_pck": true,
+  "has_dll": true,
+  "dependencies": [
+    {"id": "BaseLib", "min_version": "3.4.5"}
+  ],
+  "affects_gameplay": true
+}
