@@ -8,5 +8,9 @@
   "ANGELA-JUDGMENT.title": "Judgment",
   "ANGELA-JUDGMENT.description": "Applies {MagicBombPower:diff()} [purple]Magic Bombs[/purple] to all enemies.",
   "ANGELA-FORESHADOWING.title": "Foreshadowing",
-  "ANGELA-FORESHADOWING.description": "All players draw {Cards:diff()} cards."
+  "ANGELA-FORESHADOWING.description": "All players draw {Cards:diff()} cards.",
+  "ANGELA-TAINTED_BLESSING.title": "Tainted Blessing",
+  "ANGELA-TAINTED_BLESSING.description": "Remove all debuffs from you and your allies.",
+  "ANGELA-HEAVENLY_REBUKE.title": "Heavenly Rebuke",
+  "ANGELA-HEAVENLY_REBUKE.description": "Deal {Damage:diff()} damage. If the enemy intends to Attack, deal 5 more."
 }
