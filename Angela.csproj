@@ -62,7 +62,6 @@
     </ItemGroup>
 
     <ItemGroup>
-        <Folder Include="Angela\images\card_portraits\big\"/>
         <Folder Include="Angela\images\powers\big\"/>
         <Folder Include="Angela\images\relics\big\"/>
     </ItemGroup>

@@ -38,7 +38,7 @@ public class AngelaStrike() : AngelaCard(1,
         }
         catch (Exception ex)
         {
-            Godot.GD.PrintErr("$[AngelaStrike] Error in OnPlay: {ex}");
+            Godot.GD.PrintErr($"[AngelaStrike] Error in OnPlay: {ex}");
         }
     }
 
