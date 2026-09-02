@@ -1,3 +1,32 @@
 {
-  
+  "THE_ARCHITECT.talk.ANGELA-ANGELA.0-0r.char":  "So....This is what stands at the end ?",
+  "THE_ARCHITECT.talk.ANGELA-ANGELA.0-0r.next": "Continue",
+  "THE_ARCHITECT.talk.ANGELA-ANGELA.0-1r.ancient": "Fascinating... A creature of fractured light and lingering shadow standing at the apex of my design.\nYou believe yourself a conqueror, little angel?",
+  "THE_ARCHITECT.talk.ANGELA-ANGELA.0-1r.next": "Continue",
+  "THE_ARCHITECT.talk.ANGELA-ANGELA.0-2r.char": "I am no angel, Architect. I am the ruin you built into these very walls—and today, your geometry crumbles.",
+  "THE_ARCHITECT.talk.ANGELA-ANGELA.0-2r.next": "Continue",
+  "THE_ARCHITECT.talk.ANGELA-ANGELA.0-3r.ancient": "You misunderstand the nature of this place. The Spire is not a fortress to be broken. It is a pendulum. A closed loop. Every scar you bear, every drop of blood you shed to reach this throne was calculated before your wings ever touched the dirt.",
+  "THE_ARCHITECT.talk.ANGELA-ANGELA.0-3r.next": "Continue",
+  "THE_ARCHITECT.talk.ANGELA-ANGELA.0-4r.char": "Calculations fail when the scales are tipped by vengeance. Draw your weapon or state your final words, because my judgment is absolute.",
+  "THE_ARCHITECT.talk.ANGELA-ANGELA.0-4r.next": "Fight",
+  "THE_ARCHITECT.talk.ANGELA-ANGELA.0-attack": "What... No! My strike was true",
+  "THE_ARCHITECT.talk.ANGELA-ANGELA.0-5r.ancient": "Your strength is undeniable... but irrelevant. The cycle requires a reset. Rest well, fallen one. We shall converse again at the bottom.",
+
+  "THE_ARCHITECT.talk.ANGELA-ANGELA.1-0r.ancient": "Back so soon? You climb faster with every iteration. Tell me, do you remember the sting of the reset, or does it fade like a bad dream?",
+  "THE_ARCHITECT.talk.ANGELA-ANGELA.1-0r.next": "Continue",
+  "THE_ARCHITECT.talk.ANGELA-ANGELA.1-1r.char": "I remember every second, Architect. Every stair, every drop of blood, and the exact weight of my blade as it passed through your hollow shell.",
+  "THE_ARCHITECT.talk.ANGELA-ANGELA.1-1r.next": "Continue",
+  "THE_ARCHITECT.talk.ANGELA-ANGELA.1-2r.ancient": "Then you understand the futility of this encounter. The Spire is an absolute equation. You are merely an erratic variable I let run to gather data.",
+  "THE_ARCHITECT.talk.ANGELA-ANGELA.1-2r.next": "Continue",
+  "THE_ARCHITECT.talk.ANGELA-ANGELA.1-3r.char": "You think I'm running the same path? Look closer.",
+  "THE_ARCHITECT.talk.ANGELA-ANGELA.1-3r.next": "Continue",
+  "THE_ARCHITECT.talk.ANGELA-ANGELA.1-4r.char": "Last time, I fought you with the remnants of my light. This time, I’ve accepted the ruin. I didn't come to break your geometry—I came to poison it.",
+  "THE_ARCHITECT.talk.ANGELA-ANGELA.1-4r.next": "Continue",
+  "THE_ARCHITECT.talk.ANGELA-ANGELA.1-5r.ancient": "Unanticipated residual entropy... A bold gamble, but a mathematical irrelevance. A corrupted variable is still just a variable.",
+  "THE_ARCHITECT.talk.ANGELA-ANGELA.1-5r.next": "Continue",
+  "THE_ARCHITECT.talk.ANGELA-ANGELA.1-6r.char": "Then recalculate this.",
+  "THE_ARCHITECT.talk.ANGELA-ANGELA.1-6r.next": "Fight",
+  "THE_ARCHITECT.talk.ANGELA-ANGELA.1-attack": "Wait—no! I shattered your core!",
+  "THE_ARCHITECT.talk.ANGELA-ANGELA.1-7r.ancient": "You shattered a single thread. The loom remains. See you at the bottom, fallen one.",
+  "THE_ARCHITECT.talk.ANGELA-ANGELA.1-7r.next": "Continue"
 }

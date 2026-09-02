@@ -1,6 +1,8 @@
 {
   "ANGELA-ANGELA_STRIKE.description": "Deal {Damage:diff()} damage.\nApplies {WeakPower:diff()} [green]Weak[/green] to the enemy",
   "ANGELA-ANGELA_STRIKE.title": "Strike",
-  "ANGELA-ANGELA_DEFEND.description" : "Gain {Block:diff()} [blue]Block[/blue].\nGive {Block:diff()} [blue]Block[/blue] to [gold]all allies[/gold]",
-  "ANGELA-ANGELA_DEFEND.title": "Defend"
+  "ANGELA-ANGELA_DEFEND.description" : "Gain {Block:diff()} [blue]Block[/blue].\nGive {Block:diff()} [blue]Block[/blue] to all allies",
+  "ANGELA-ANGELA_DEFEND.title": "Defend",
+  "ANGELA-ANGEL_TOUCH.title": "Angel's Touch",
+  "ANGELA-ANGEL_TOUCH.description": "Applies [gold]Angelic Touch[/gold] to an ally."
 }
