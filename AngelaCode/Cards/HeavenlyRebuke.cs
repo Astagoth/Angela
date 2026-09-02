@@ -27,7 +27,7 @@ public class HeavenlyRebuke() : AngelaCard(1,
             decimal _dmg = DynamicVars.Damage.BaseValue;
             if (play.Target?.Monster?.NextMove?.Intents?.Any(i => i is AttackIntent) == true)
             {
-                _dmg += 5M
+                _dmg += 5M;
             }
             await DamageCmd.Attack(_dmg).FromCard(this).Targeting(play.Target)
                 .WithHitFx("vfx/vfx_attack_slash", null, "blunt_attack.mp3")
